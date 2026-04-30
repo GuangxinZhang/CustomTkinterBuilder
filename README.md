@@ -2,6 +2,16 @@
 
 This is a Free and Open Source [RAD](https://en.wikipedia.org/wiki/Rapid_application_development) tool for [Custom Tkinter](https://github.com/TomSchimansky/CustomTkinter). This software allows you to create complex UI faster than ever⚡
 
+## Important announcement
+>I built CustomTkinter Builder when I was around 15 years old. Looking back, the code I wrote is quite messy, making it incredibly difficult to fix issues and refactor today. Still, I have learned a lot from this project.
+
+>During development, I realized that CustomTkinter itself can be buggy, requiring a lot of workarounds to function as desired. The original maintainer has also lost interest in continuing its development. While a community-driven fork called Custom2kinter has been launched, I don't see much point in building on it right now. For larger projects, the library's lag is a real issue - it is CPU-based and draws everything on the tkinter canvas to achieve its modern look. While I still love tkinter for its simplicity, libraries like Flet, Kivy, and PyQt5 are much faster and more efficient (although the learning curve is a bit high).
+
+>I originally started this project because there weren’t any free and open-source options available; the only feature-rich tool at the time was paid software, [CTkDesigner](https://github.com/Akascape/CTkDesigner-Support). However, just a few days ago, I saw a new free and open-source tool named [CTkMaker](https://github.com/kandelucky/ctk_maker) that looks very promising. The developer mentioned in a [CustomTkinter discussion](https://github.com/TomSchimansky/CustomTkinter/discussions/2801) that the whole thing was "vibe coded" in 17 days, which I appreciate the honesty of. It took me two months of development during my summer vacation to reach a similar level! I recently tried refactoring my own code with the help of AI coding agents, but the codebase is so tangled that even they are having a hard time. Moving forward, I highly recommend checking out tools like CTkMaker.
+
+>Another major factor for this repository going dormant is that I am finishing my schooling next year. I am currently enrolled in coaching classes for college entrance exams, which takes up all the time I used to spend programming.
+
+>For all the reasons mentioned above, **CustomTkinter Builder will no longer be receiving updates**. *Thank you to everyone who used and supported the project.*
 
 
 <a href="https://www.producthunt.com/posts/custom-tkinter-builder?embed=true&utm_source=badge-featured&utm_medium=badge&utm_souce=badge-custom&#0045;tkinter&#0045;builder" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=750366&theme=neutral" alt="Custom&#0032;Tkinter&#0032;Builder - The&#0032;free&#0032;and&#0032;open&#0032;source&#0032;UI&#0032;builder&#0032;for&#0032;CustomTkinter✨ | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
